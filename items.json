@@ -2,6 +2,7 @@
   "addons": [
     "SkAutoComplete",
     "SkDebug",
-    "SkLinter"
+    "SkLinter",
+	"KremowkaHighlighting"
   ]
 }

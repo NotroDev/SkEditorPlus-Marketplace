@@ -2,7 +2,7 @@
   "Name": "SkAutoComplete",
   "Type": "Addon",
   "Author": "Bob the builder",
-  "Icon": "SkAutoComplete.png",
+  "Icon": "https://raw.githubusercontent.com/NotroDev/SkEditorPlus-Marketplace/main/items/SkAutoComplete/SkAutoComplete.png",
   "URL": "SkAutoComplete.dll",
   "Description": "A code completion tool for SkEditor+ that suggests completions for Skript language syntax.",
   "LongDescription": "SkAutoComplete is a plugin for SkEditor+ that offers code completion functionality for Skript language syntax. It automatically suggests completions as you type, making coding in Skript much faster and more efficient. This tool supports all versions of Skript, from 2.2 to the latest version, and is actively maintained by its author.",

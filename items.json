@@ -1,16 +1,7 @@
 {
   "addons": [
-    {
-      "Name": "Completion Unlocker",
-      "Type": "Addon",
-      "Icon": "resources/icons/Addon.png",
-      "URL": "resources/addons/CompletionUnlocker.dll"
-    },
-    {
-      "Name": "Projects and Structure Unlocker",
-      "Type": "Addon",
-      "Icon": "resources/icons/Addon.png",
-      "URL": "resources/addons/CompletionUnlocker.dll"
-    }
+    "SkAutoComplete",
+    "SkDebug",
+    "SkLinter"
   ]
 }

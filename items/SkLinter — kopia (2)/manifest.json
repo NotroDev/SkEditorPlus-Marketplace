@@ -1,0 +1,10 @@
+{
+  "Name": "SkLinter",
+  "Type": "Addon",
+  "Author": "Jane Smith",
+  "Icon": "SkLinter.png",
+  "URL": "SkAutoComplete.dll",
+  "Description": "A code analysis tool for SkEditor+ that checks your Skript code for syntax errors and other issues.",
+  "LongDescription": "SkLinter is a code analysis tool for SkEditor+ that checks your Skript code for syntax errors and other issues. It highlights problematic areas of your code and suggests possible fixes. With SkLinter, you can catch errors before they cause issues, and improve the quality of your Skript code. This tool supports all versions of Skript, from 2.2 to the latest version, and is actively maintained by its author.",
+  "Version": "2.0"
+}

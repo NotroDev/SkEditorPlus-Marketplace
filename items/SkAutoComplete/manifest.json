@@ -1,7 +1,7 @@
 {
   "Name": "SkAutoComplete",
   "Type": "Addon",
-  "Author": "Bob the builder",
+  "Author": "John Doe",
   "Icon": "SkAutoComplete.png",
   "URL": "SkAutoComplete.dll",
   "Description": "A code completion tool for SkEditor+ that suggests completions for Skript language syntax.",

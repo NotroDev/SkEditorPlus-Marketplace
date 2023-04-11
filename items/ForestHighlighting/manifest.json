@@ -1,0 +1,10 @@
+{
+  "Name": "Forest Highlighting",
+  "Type": "Syntax highlighting",
+  "Author": "Notro",
+  "Icon": "forest.png",
+  "URL": "Forest.xshd",
+  "Description": "Ładne podświetlanie składni",
+  "LongDescription": "brak",
+  "Version": "1.0"
+}

@@ -3,6 +3,6 @@
     "SkAutoComplete",
     "SkDebug",
     "SkLinter",
-	"KremowkaHighlighting"
+	"ForestHighlighting"
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "Name": "Sunrise Highlighting",
+  "Type": "Syntax highlighting",
+  "Author": "Notro",
+  "Icon": "Sunrise.png",
+  "URL": "Sunrise.xshd",
+  "Description": "Sunrise-themed syntax highlighting.",
+  "LongDescription": "-",
+  "Version": "1.0"
+}

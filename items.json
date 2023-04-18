@@ -1,8 +1,12 @@
 {
   "addons": [
-    "SkAutoComplete",
-    "SkDebug",
-    "SkLinter",
-	"ForestHighlighting"
+    "AuroraHighlighting",
+    "CompletionUnlocker",
+    "ForestHighlighting",
+	"GardenHighlighting",
+	"OceanHighlighting",
+	"ProjectsAndStructureUnlocker",
+	"SunriseHighlighting",
+	"WildflowerHighlighting"
   ]
 }

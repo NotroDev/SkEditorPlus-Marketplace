@@ -1,0 +1,10 @@
+{
+  "Name": "Aurora Highlighting",
+  "Type": "Syntax highlighting",
+  "Author": "Notro",
+  "Icon": "Aurora.png",
+  "URL": "Aurora.xshd",
+  "Description": "Aurora-themed syntax highlighting.",
+  "LongDescription": "-",
+  "Version": "1.0"
+}

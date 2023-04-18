@@ -1,0 +1,10 @@
+{
+  "Name": "Wildflower Highlighting",
+  "Type": "Syntax highlighting",
+  "Author": "Notro",
+  "Icon": "Wildflower.png",
+  "URL": "Wildflower.xshd",
+  "Description": "Wildflower-themed syntax highlighting.",
+  "LongDescription": "-",
+  "Version": "1.0"
+}

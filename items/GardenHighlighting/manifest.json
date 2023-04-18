@@ -1,0 +1,10 @@
+{
+  "Name": "Garden Highlighting",
+  "Type": "Syntax highlighting",
+  "Author": "Notro",
+  "Icon": "Garden.png",
+  "URL": "Garden.xshd",
+  "Description": "Garden-themed syntax highlighting.",
+  "LongDescription": "-",
+  "Version": "1.0"
+}

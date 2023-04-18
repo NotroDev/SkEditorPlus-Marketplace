@@ -1,0 +1,10 @@
+{
+  "Name": "Ocean Highlighting",
+  "Type": "Syntax highlighting",
+  "Author": "Notro",
+  "Icon": "Ocean.png",
+  "URL": "Ocean.xshd",
+  "Description": "Ocean-themed syntax highlighting.",
+  "LongDescription": "-",
+  "Version": "1.0"
+}

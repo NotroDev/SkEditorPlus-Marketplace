@@ -1,12 +1,12 @@
 {
   "addons": [
     "AuroraHighlighting",
+    "WildflowerHighlighting",
     "CompletionUnlocker",
     "ForestHighlighting",
-	"GardenHighlighting",
-	"OceanHighlighting",
-	"ProjectsAndStructureUnlocker",
-	"SunriseHighlighting",
-	"WildflowerHighlighting"
+    "GardenHighlighting",
+    "OceanHighlighting",
+    "ProjectsAndStructureUnlocker",
+    "SunriseHighlighting"
   ]
 }

@@ -6,5 +6,5 @@
   "URL": "CompletionUnlocker.dll",
   "Description": "An official prototype of code completion.",
   "LongDescription": "Can cause performance issues! This addon unlocks a prototype of code completion. It will be improved and officialy added to SkEditor+ in the future.",
-  "Version": "1.0.0"
+  "Version": "1.0.1"
 }

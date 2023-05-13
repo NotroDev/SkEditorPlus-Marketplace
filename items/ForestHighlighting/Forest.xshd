@@ -194,8 +194,7 @@
         </Rule>
 	</RuleSet>
 	
-	<RuleSet name="ErrorsRuleSet">
-		<Rule color="BracedError">\.</Rule>
+	<RuleSet name="ErrorsRuleSet">
 		<Span color="PercentageExpression">
 			<Begin>%</Begin>
 			<End>%</End>

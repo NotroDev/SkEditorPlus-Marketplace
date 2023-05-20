@@ -1,0 +1,10 @@
+{
+  "Name": "Gruvbox Highlighting",
+  "Type": "Syntax highlighting",
+  "Author": "Mine333",
+  "Icon": "Gruvbox.png",
+  "URL": "Gruvbox.xshd",
+  "Description": "Gruvbox-themed syntax highlighting.",
+  "LongDescription": "The first theme on SkEditor+",
+  "Version": "1.0"
+}

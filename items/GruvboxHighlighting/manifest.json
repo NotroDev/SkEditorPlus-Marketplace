@@ -2,8 +2,8 @@
   "Name": "Gruvbox Highlighting",
   "Type": "Syntax highlighting",
   "Author": "Mine333",
-  "Icon": "Gruvbox.png",
-  "URL": "Gruvbox.xshd",
+  "Icon": "gruvbox.png",
+  "URL": "gruvbox.xshd",
   "Description": "Gruvbox-themed syntax highlighting.",
   "LongDescription": "The first theme on SkEditor+",
   "Version": "1.0"

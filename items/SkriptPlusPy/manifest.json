@@ -1,0 +1,10 @@
+{
+  "Name": "SkriptEditorPy",
+  "Type": "Syntax highlighting",
+  "Author": "RogerDodg3r",
+  "Icon": "SkriptEditorPy.png",
+  "URL": "SkriptEditorPy.xshd",
+  "Description": "Python inspired theme.",
+  "LongDescription": "-",
+  "Version": "1.0.0"
+}

@@ -17,8 +17,6 @@
 	<Color name="Booleans" foreground="#ff795a"/>
 	<Color name="Recipients" foreground="#4e9ed1"/>
 	
-	<Color name="BracedError" background="#ffd6d6" foreground="#ff0000"/>
-	<Color name="FormatSlotError" background="#ffd6d6"/>
 	<RuleSet>
 		<Rule color="Number">
 			(?&lt;!&amp;)(?:\b0[xX][0-9a-fA-F]+|(\b\d+(\.[0-9]+)?|\.[0-9]+)([eE][+-]?[0-9]+)?)
@@ -44,8 +42,6 @@
 			<End>/^[a-z].*[a-z]$/im</End>
 		</Span>
 		<Rule color="Command">(?=\bimport).*(?&lt;=:)</Rule>
-		
-		<Rule color="FormatSlotError">format\u0020slot</Rule>
 		
 		<Span color="Variable" ruleSet="ErrorsRuleSet">
 			<Begin>{</Begin>
@@ -194,7 +190,8 @@
         </Rule>
 	</RuleSet>
 	
-	<RuleSet name="ErrorsRuleSet">
+	<RuleSet name="ErrorsRuleSet">
+
 		<Span color="PercentageExpression">
 			<Begin>%</Begin>
 			<End>%</End>

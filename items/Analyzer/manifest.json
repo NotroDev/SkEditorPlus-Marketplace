@@ -6,5 +6,5 @@
   "URL": "Analyzer.dll",
   "Description": "Analyzer - Identify errors in your scripts!",
   "LongDescription": "Analyzer introduces a powerful Analyze option to your application's menu, enabling you to effortlessly identify and rectify errors in your scripts.",
-  "Version": "1.0.0"
+  "Version": "1.0.1"
 }

@@ -2,14 +2,11 @@
   "addons": [
     "AuroraHighlighting",
     "WildflowerHighlighting",
-    "CompletionUnlocker",
     "ForestHighlighting",
     "GardenHighlighting",
     "OceanHighlighting",
-    "ProjectsAndStructureUnlocker",
     "SunriseHighlighting",
     "GruvboxHighlighting",
-	"SkriptPlusPy",
-	"Analyzer"
+	"SkriptPlusPy"
   ]
 }

@@ -6,5 +6,6 @@
   "URL": "Aurora.xshd",
   "Description": "Aurora-themed syntax highlighting.",
   "LongDescription": "-",
-  "Version": "1.0.1"
+  "Version": "1.0.1",
+  "Images": [ "https://i.imgur.com/n9g0oXO.png" ]
 }
